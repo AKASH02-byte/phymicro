@@ -29,7 +29,7 @@ It allows users to manage student records through a menu-driven interface.
 
 ```
 phymicro/
-│── main.py
+│── class2.py
 │── README.md
 ```
 
@@ -42,7 +42,7 @@ phymicro/
 3. Run:
 
 ```
-python main.py
+python class2.py
 ```
 
 ---
